@@ -11,6 +11,6 @@ In this file, I created all the clauses as mentioned in puzzle, and a DPLL solve
   - pip3 install more-itertools
   - copy is a standard python library, so you might not need to install it saperately.
 - Now open the terminal in the folder where you downloaded the file and run the follwing command
-  - python Einstine's_puzzle.py
+  - python3 Einstine\'s_puzzle.py
 
 This will give you two outputs where the first one is a disctionary of assignments to each variable, where variables are encoded as numbers, the second one represent the list of literals which are true which can be read as per the convention as mentioned in the report file.
