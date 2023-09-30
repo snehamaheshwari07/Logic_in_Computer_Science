@@ -1,5 +1,5 @@
 # Logic_in_Computer_Science
-This repository is the clause listing and DPLL algorithm SAT solver for Einstein's puzzle.
+This repository is the clause listing and DPLL algorithm SAT solver for Einstein's puzzle and analysis of 3 heuristics in DPLL algorithm.
 
 ## About the file 'Einstine's_puzzle.py' and how to run it.
 In this file, I created all the clauses as mentioned in puzzle, and a DPLL solver to find that if the puzzle is SATISFYING or NOT_SATISFYING.
