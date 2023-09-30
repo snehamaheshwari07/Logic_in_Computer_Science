@@ -21,9 +21,11 @@ Running this file will show us the following for each heuristic:
 - compute time
 - DPLL run count
 - Splitting rule count
+  
 It also gives us the Satisfiable probability for each batch of 100 runs.
 
-- To run this file, download the file. 
+To run this file:
+- Download the file. 
 - Install the following libraries.
   - deepcopy
   - random
